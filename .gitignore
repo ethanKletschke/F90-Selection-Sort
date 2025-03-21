@@ -1,0 +1,6 @@
+# Binary folder and binaries.
+bin/
+*.exe
+
+# The makefile.
+makefile
