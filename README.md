@@ -4,6 +4,11 @@ An implementation of the
 [Selection Sort algorithm](https://www.w3schools.com/dsa/dsa_algo_selectionsort.php "Adapted from W3Schools.com") 
 in Fortran 90.
 
+- Author: Ethan Kletschke
+- Version: `1.0.0`
+- Developed on: Windows 11
+- License: MIT
+
 ## Sources
 
 1. [W3Schools.com](https://www.w3schools.com/dsa/dsa_algo_selectionsort.php "Selection Sort tutorial"), where I
